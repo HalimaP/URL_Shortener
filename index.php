@@ -33,7 +33,7 @@
 
     <tr>
 
-      <td>   <input id="txt_field" type="text" value= "" placeholder = " Paste your url" name="url"/></td>
+      <td>   <input id="txt_field" type="text" value= "" placeholder = " Paste your url//: www.example.com" name="url"/></td>
     </tr>
 
      
